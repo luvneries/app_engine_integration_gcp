@@ -1,0 +1,6 @@
+openpyxl
+google-cloud-bigquery
+google-cloud-storage
+google-api-python-client
+gunicorn==19.7.1
+Flask==0.12.2

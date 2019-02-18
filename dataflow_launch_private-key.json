@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mlongcp",
+  "private_key_id": "cd456572dedd33f5dacededac4fe43157ff85b21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCt3wb28evMHPiK\no6d/kCxOeNPxmIg2qZi8GfWwtAnT3Dikpyw/WgwberBPut88uJNNev9NE3vfRkND\nj53Jaf5yqme4DS1UbdSRzosOobcXolR3isx+JRvdtLe44gAAP5FgZRFKFWc/kQs3\n/ATCpSxESwd4nbpZ03PMomSK0ao9E8hKEASXxUBXOjO+EMERRX7RXQFKK1vXH7lh\nYXOIhlpgYRz+aX5GPWsXbxaqupq29AuuoeQhA6qMIrjYBKbVfHkmV9kFiEaXrkx4\ntuXpG7dQwdvvg16wqINAsjh3rlId/XUvC1xxUmZBEGJccRlV2VhZtsy1nMDBXPFu\nwV+S+VVbAgMBAAECggEAF1+F5ih7VEMIvkplt+Y/roTbqPyiQwble1PaDVkGgS53\nhtraPeHzArapgO5UGCuP0biZHVljK46ceDaUNYFELVHvA3TyBQmGq9siImNm44x0\n4mUMPGDssA8dK4NmEKJ6/oRXoKfj602qPmpokWn2229in7pEVNLyHC4waeDpi7Am\nYN9EAWEZ20TD3lLGvyZLJnsgLUU5AxuzK0qL3ufml/xrntASkvm3bmbh3HcYu2nP\nkDyJHzuv54WS1lr1Fwv5DLAJT+dFxnuaN6Fpc9OSaM+ZU6PHBwAkFmYo4AKDIOgN\n7nFYcFnRQweEdSX95usoqIyzSaHjnF2jp2L450ipEQKBgQDU9wBGYvgUU+17AgpU\nnDGs2coxeXv6AlNM7HONNBHSiRJTybkSNBVsS86VcCYUot9cEvGe1QO+moGQh7oz\nui2pfVV8Rw76666YXdobq7LkqHzeqMt9mt01by2gSJ5lxoFDg0P+IGxPmwkGavoB\nVUXj9qnBMw53mdfiveIxVcKl1wKBgQDRAabRikHy39S81D2aQTU6YO3rD1nxmZ2w\nxakOj9steWva9BLFmM1Spy3kkVG2w7/AHJYjIar7QFVdM3iq9LAm/S/7sUO44Ob7\n5nPq7E7lecbQ5d2E1TGOXo7JK6azWNh1IQTyDh3GTtUamgvIEQzQC0Gz3JnfbzLD\nztdiek5UHQKBgQCJIw1gRfbuUCVK4sN4PKSYZB6ZwVseYUT28gRu1yrq4i2VGv88\nQ6HP/PjorjE3dLJUfjZtS0qAAMqSIXS8PpWM4RKdVrzEw+PIZhc/Xk9ygzT1xMhU\n99aexBsjbd/iNfOjX/H2wTY+BN3I7jZTiW/aHkquCIy2Y7DrZ88yacFQPQKBgBjP\nvWH6q8GNWM/h0j5Rp2P6xcO12tOXjOTDUkJsSXSoiWlAuEnEzfsV5ZjQt4aezlCc\nFCavhIC3LmsWBSkmSxMV03BppsR3znPw86nby7HqNvPtldKDDJL+Hq07BVsdHPUq\nqk+h5V75VMsHpoZln8PC0lXrxkiEBt6/20nRgyLxAoGAQH4dqDZJfJfzCzs14wsW\ncKSqzmHuqNqg9Kv1xQoHc1cUntGtxb3NiUor5fgd+lkCL39NbNGI8oeIUWQluLrT\ntQRWb2UnZy0+LD2QTxKZLSmUN7U5ca06W5YVAUq1fx1d5YwcQDv3VoEFEwhChnZT\n4xF7Se1ASX0UivcB95BOknQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sv-dataflow-launcher@mlongcp.iam.gserviceaccount.com",
+  "client_id": "117917456842563304579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sv-dataflow-launcher%40mlongcp.iam.gserviceaccount.com"
+}
